@@ -4,4 +4,7 @@ This project aims to detect fake news using supervised machine learning models. 
 Note: 
 > This was my 4th semester "Artificial Intelligence" Course Project.
 > To use, simply download the jupyter notebook(.ipynb file.
-> Other useful files are added for your benefit. 
+> Other useful files are added for your benefit.
+
+Contact Me
+- For questions, suggestions, or collaboration opportunities: muizztalks@gmail.com
